@@ -1,0 +1,14 @@
+node_modules
+.pnpm-store
+dist
+.next
+out
+.turbo
+*.log
+.env
+.env.local
+__pycache__
+*.pyc
+.venv
+target/
+.DS_Store
